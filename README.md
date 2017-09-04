@@ -18,6 +18,8 @@ Function | `Agg` time| `Qt5Agg` time|
 `draw2` | 8.106147522373316 | 9.609950379663687
 `draw3` | 5.5861171293730365 | 5.752674005524984
 
+**Note**: time unit in the table is seconds.
+
 
 
 
